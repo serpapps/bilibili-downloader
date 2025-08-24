@@ -2,9 +2,9 @@
 
 > Download Bilibili videos, anime, and live streams with danmaku comments
 
-![Bilibili Downloader](https://raw.githubusercontent.com/serpapps/bilibili-downloader/assets/images/featured.gif)
+![Bilibili Downloader](https://raw.githubusercontent.com/serpapps/bilibili-downloader/assets/images/bilibili-downloader.gif)
 
-Bilibili Downloader is a powerful tool that helps you download bilibili videos, anime, and live streams with danmaku comments. Built with modern technologies, it provides a seamless experience for downloading and managing content.
+Bilibili Downloader is a powerful tool that helps you download content from Bilibili instantly without ads or popups. Built with modern technologies, it provides a seamless experience for downloading and managing content.
 
 ## 🔗 Links
 
@@ -22,12 +22,12 @@ Bilibili Downloader is a powerful tool that helps you download bilibili videos, 
 
 ## Features
 
-- Danmaku subtitle export
-- 1080p+ quality
-- Batch playlist download
-- Live stream recording
-- Audio extraction
-- Region unlock
+- Stream-to-file conversion
+- HD quality downloads
+- Batch download support
+- Resume interrupted downloads
+- No watermarks
+- Content extraction
 
 ## Installation Instructions
 
@@ -47,11 +47,17 @@ Bilibili Downloader is a powerful tool that helps you download bilibili videos, 
 ## Technologies
 
 - Python
-- FFmpeg
-- Danmaku2ASS
-- AsyncIO
+- JavaScript
+- Node.js
+- Automation
 
 ## More Info
 
 - 📁 Repository [here](https://github.com/serpapps/bilibili-downloader)
+
+<details>
+<summary>Keywords</summary>
+
+bilibili downloader
+</details>
 
